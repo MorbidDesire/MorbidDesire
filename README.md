@@ -22,7 +22,7 @@ Web Developer
 </p>
 
 ### Interest:
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a title="Telegram Messenger LLP, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"><img width="32" height="32 alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
+<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
 ### Socials
