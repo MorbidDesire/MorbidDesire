@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Russia.
 * 🖥️  See my portfolio at [repositories](http://github.com/MorbidDesire?tab=repositories).
 * ✉️  You can contact me at [Ra1jinThunderkeg@yandex.ru](mailto:Ra1jinThunderkeg@yandex.ru).
-* ✏️  I have completed a Web Development course. Now I'm actively looking for a job as a Frontend Developer.
+* ✏️  I have completed a Web Development course. Now I'm looking for a job as a Frontend(React) Developer.
 * 🤝  I'm open to collaborating on intresting projects.
 
 ### Skills
